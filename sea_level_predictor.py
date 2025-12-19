@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1z1hUdZb9Jf0MW9gOdSy8sPXRC2rlmS0C
 """
 
-# Commented out IPython magic to ensure Python compatibility.
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.stats import linregress
